@@ -1,0 +1,126 @@
+{
+  "date": "2025-12-04",
+  "projects": {
+    "Downloads": {
+      "totalLinesAdded": 181,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Users\\Lenovo\\Downloads\\chess.py": [
+          {
+            "timestamp": "2025-12-04T11:20:36.434Z",
+            "fileName": "c:\\Users\\Lenovo\\Downloads\\chess.py",
+            "fileType": ".py",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "Downloads",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-12-04T11:20:36.560Z",
+            "fileName": "c:\\Users\\Lenovo\\Downloads\\chess.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Downloads",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-12-04T11:20:45.179Z",
+            "fileName": "c:\\Users\\Lenovo\\Downloads\\chess.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Downloads",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\Lenovo\\Downloads\\chess_game.py": [
+          {
+            "timestamp": "2025-12-04T11:22:47.184Z",
+            "fileName": "c:\\Users\\Lenovo\\Downloads\\chess_game.py",
+            "fileType": ".py",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "Downloads",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 4
+      },
+      "changeFrequency": {
+        "13": 4
+      },
+      "topFiles": [
+        "c:\\Users\\Lenovo\\Downloads\\chess.py",
+        "c:\\Users\\Lenovo\\Downloads\\chess_game.py"
+      ],
+      "averageChangeSize": 45.25
+    },
+    "User": {
+      "totalLinesAdded": 12,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\Lenovo\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-12-04T11:21:17.998Z",
+            "fileName": "c:\\Users\\Lenovo\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "User",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "13": 1
+      },
+      "topFiles": [
+        "c:\\Users\\Lenovo\\AppData\\Roaming\\Code\\User\\settings.json"
+      ],
+      "averageChangeSize": 12
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 2,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "py",
+    "json"
+  ]
+}
